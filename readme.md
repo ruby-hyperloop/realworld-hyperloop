@@ -1,4 +1,4 @@
-# ![RealWorld Example App](logo.png)
+# ![RealWorld Example App](https://avatars1.githubusercontent.com/u/15810526?s=200&v=4)
 
 > ### [Ruby-Hyperloop](https://github.com/ruby-hyperloop/hyperloop) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
