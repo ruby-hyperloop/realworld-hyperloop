@@ -4,15 +4,12 @@
 
 This repo is functionality complete -- PRs and issues welcome!
 
-Check out the [rails-5.1 branch](https://github.com/gothinkster/rails-realworld-example-app/tree/rails-5.1) to see the updated code for Rails 5.1
-
 # Getting started
 
 To get the Rails server running locally:
 
 - Clone this repo
 - `bundle install` to install all req'd dependencies
-- `rake db:migrate` to make all database migrations
 - `rails s` to start the local server
 
 

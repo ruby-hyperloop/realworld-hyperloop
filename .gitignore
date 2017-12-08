@@ -16,19 +16,5 @@
 !/log/.keep
 /tmp
 
-# From RealWorld
-#
-# dependencies
-/node_modules
-/bower_components
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-*.launch
-.settings/
-
-#System Files
-.DS_Store
-Thumbs.db
+# Ignore encrypted secrets key file.
+config/secrets.yml.key
