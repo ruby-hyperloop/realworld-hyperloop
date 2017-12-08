@@ -22,8 +22,8 @@ gem 'jwt', '~> 1.5.4'
 gem 'puma'
 gem 'rack-cors', '~> 0.4.0'
 
-gem 'hyper-spec', '1.0.0-lap9'
-gem 'hyperloop', '1.0.0-lap9', source: 'https://gems.ruby-hyperloop.org'
+# gem 'hyper-spec', '1.0.0-lap9'
+# gem 'hyperloop', '1.0.0-lap9', source: 'https://gems.ruby-hyperloop.org'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
