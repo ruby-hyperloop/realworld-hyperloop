@@ -6,7 +6,7 @@
 ### [Demo](https://github.com/gothinkster/realworld)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
 
 
-This codebase was created to demonstrate a fully fledged fullstack application built with ### [Ruby-Hyperloop](https://github.com/ruby-hyperloop/hyperloop) including CRUD operations, authentication, routing, pagination, and more.
+This codebase was created to demonstrate a fully fledged fullstack application built with [Ruby-Hyperloop](https://github.com/ruby-hyperloop/hyperloop) including CRUD operations, authentication, routing, pagination, and more.
 
 NOTE under construction! - Currently this is just the Fork of the Rails RealWorld server.  Next steps:
 
@@ -16,7 +16,7 @@ NOTE under construction! - Currently this is just the Fork of the Rails RealWorl
 + Use the React Realworld client as a base, and rewrite components in Ruby
 + Profit!
 
-We've gone to great lengths to adhere to the ### [Ruby-Hyperloop](https://github.com/ruby-hyperloop/hyperloop) community styleguides & best practices.
+We've gone to great lengths to adhere to the [Ruby-Hyperloop](https://github.com/ruby-hyperloop/hyperloop) community styleguides & best practices.
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
